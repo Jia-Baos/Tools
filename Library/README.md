@@ -17,6 +17,20 @@ Compiler & compiler version: MinGW 11.2.0
 ### Release-shared
 [Release-shared](https://drive.google.com/drive/folders/1ly8QDfgZY4K4ystHIXxri81BAZ-8Last?usp=sharing)
 
+## zlib and pnglib
+
+OpenCV version: 4.6.0
+
+Operating System / Platform: Windows10
+
+Compiler & compiler version: MinGW 11.2.0
+
+### zlib
+[zlib](https://drive.google.com/drive/folders/1zC16gC3NGeMrC4UvHl_ofL-NXhFP4DtM?usp=sharing)
+
+### pnglib
+[pnglib](https://drive.google.com/drive/folders/1263kiz8lhOSOOkQraLnUhRRydOJ_Rdml?usp=sharing)
+
 
 
 

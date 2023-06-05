@@ -3,7 +3,9 @@
 ## 开源图像库Opencv
 
 OpenCV version: 4.6.0
+
 Operating System / Platform: Windows10
+
 Compiler & compiler version: MinGW 11.2.0
 
 ### Debug-shared
